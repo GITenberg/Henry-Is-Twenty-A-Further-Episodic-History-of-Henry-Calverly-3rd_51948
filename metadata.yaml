@@ -1,0 +1,29 @@
+_repo: Henry-Is-Twenty-A-Further-Episodic-History-of-Henry-Calverly-3rd_51948
+_version: 0.0.1
+alternative_title: 'Henry Is 20: A Further Episodic History of Henry Calverly, III'
+creator:
+  author:
+    agent_name: Merwin, Samuel
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+tableOfContents: The irrational animal -- In sand-fly time -- The stimulant -- The
+  white star -- Tiger, tiger! -- Aladdin on Simpson Street -- The bubble, reputation
+  -- This bud of love -- What's money! -- Love laughs.
+title: 'Henry Is Twenty: A Further Episodic History of Henry Calverly, 3rd'
+url: http://www.gutenberg.org/ebooks/51948
