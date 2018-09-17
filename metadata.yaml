@@ -1,6 +1,9 @@
 _repo: Henry-Is-Twenty-A-Further-Episodic-History-of-Henry-Calverly-3rd_51948
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Henry Is 20: A Further Episodic History of Henry Calverly, III'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Merwin, Samuel
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2744
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51948#Henry-Is-Twenty-A-Further-Episodic-History-of-Henry-Calverly-3rd
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
